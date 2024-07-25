@@ -18,18 +18,14 @@ This project implements real-time augmentation of videos (or images) onto physic
     cd real-time-augmentation
     ```
 
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-3. Create Folders:
+2. Create Folders:
 
     - Create two folders in the project directory:
         - `Imagesquery`: Upload the images that are physically available to you.
         - `Testvideos1`: Upload the same number of videos (or images) that correspond to the images in the `Imagesquery` folder.
 
-4. Run the Program:
+3. Run the Program:
 
     - Execute the script:
         ```bash
